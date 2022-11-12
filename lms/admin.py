@@ -5,4 +5,4 @@ from lms.models import Curator, Direction
 
 admin.site.register(Curator)
 admin.site.register(Direction)
-admin.site.register(groop)
+admin.site.register(Discipline)
